@@ -1,10 +1,12 @@
-This repository guides developers wanting to contribute to Scroll. You can start contributing today, if you need ideas to get started check out the [issues](https://github.com/scroll-tech/contribute/issues) tab.
+This repository guides developers wanting to contribute to Scroll. You can start contributing today, if you need ideas on getting started check out the [issues](https://github.com/scroll-tech/contribute/issues) tab.
 
 ## How to Contribute
 
 Thanks for your interest in contributing to Scroll. Check out the [CONTRIBUTIONS](https://github.com/scroll-tech/contribute/blob/main/CONTRIBUTIONS.md) page for a guide on how to contribute.
 
-## Integrations
+## Contributions
+
+### Integrations
 
 Scroll has been integrated on the following projects:
 
