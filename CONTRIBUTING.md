@@ -33,8 +33,8 @@ Remember to review each project's `CONTRIBUTING.md` file before making a PR. Scr
 1. Fork the `contribute-to-scroll` repo.
 2. Add your contribution, showing the Issue it closes (or contributes to), along with the link to the PR raised in another repo.
 3. Describe your work and fill out the template.
-4. If more than one person contributed to Issue, please add their usernames.
-5. Additional contributors will need to also make a commit to the PR (or a later PR) to receive acknowledgement.
+4. Add a new entry to the `contributions.json` file by following the same format as the other projects listed.
+5. Additional contributors will need to also make a commit to the PR (or a later PR) by adding their name to the `contributions.json` file to receive acknowledgement.
 
 ### Collecting your GitPOAP
 
