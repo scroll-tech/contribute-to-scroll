@@ -4,7 +4,7 @@ This repository guides developers wanting to contribute to Scroll. You can start
 
 ## How to Contribute
 
-Thanks for your interest in contributing to Scroll. Check out the [CONTRIBUTIONS](https://github.com/scroll-tech/contribute/blob/main/CONTRIBUTIONS.md) page for a guide on how to contribute.
+Thanks for your interest in contributing to Scroll. Check out the [CONTRIBUTING](https://github.com/scroll-tech/contribute/blob/main/CONTRIBUTING.md) page for a guide on how to contribute.
 
 ## Contributions
 
