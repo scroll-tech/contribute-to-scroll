@@ -1,4 +1,4 @@
-# Contribute to Scroll
+![Contribute to Scroll](./assets/banner.png)
 
 This repository guides developers wanting to contribute to Scroll. You can start contributing today, if you need ideas on getting started check out the [issues](https://github.com/scroll-tech/contribute/issues) tab.
 
