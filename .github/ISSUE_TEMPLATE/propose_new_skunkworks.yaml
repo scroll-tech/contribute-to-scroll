@@ -1,0 +1,44 @@
+name: "Propose new Skunkworks project"
+description: "Skunkworks are Innovative ideas that inspire developers, explore new use cases, and illustrate best practices on Scroll"
+title: "Skunkworks Project Suggestion: "
+labels: ["skunkworks :skunk:"]
+body:
+  - type: markdown
+    attributes:
+      value: "
+        ## What is Skunkworks about?
+        
+        General idea of Skunkworks as per [wikipedia](https://en.wikipedia.org/wiki/Skunk_Works) is:
+          
+        > The designation 'skunk works' or 'skunkworks' is widely used in business, engineering, and technical fields to describe **a group within an organization given a high degree of autonomy and unhampered by bureaucracy, with the task of working on advanced or secret projects**\n
+        
+        **But what is it for us?**
+        
+        Skunkworks are Innovative ideas that inspire developers, explore new use cases, and illustrate best practices on Scroll.
+        
+        Every time you feel like something would be cool to exist related to Scroll, ZK, Developer Tooling etc. post it here.
+        If you ever feel like it’s too crazy, remember, zkEVM was crazy idea just a few years ago 🙂
+        
+        >There is no great genius without some touch of madness.
+      "
+  - type: input
+    id: skunkworks_name
+    attributes:
+      label: "Name of the project"
+      placeholder: "Example: Metamask Snap for Scroll"
+    validations:
+      required: true
+  - type: textarea
+    id: skunkworks_abstract
+    attributes:
+      label: "Project abstract"
+      description: "Abstract description of the Skunkworks project you're proposing"
+    validations:
+      required: true
+  - type: textarea
+    id: skunkworks_specification
+    attributes:
+      label: "Specification"
+      description: "Specification, pictures and any other resources that are useful for describing this project"
+    validations:
+      required: true

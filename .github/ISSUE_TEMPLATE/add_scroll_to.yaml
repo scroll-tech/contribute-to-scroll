@@ -1,0 +1,53 @@
+name: Add Scroll to some tool or library
+description: This brings Scroll compatibility into an existing library or project
+title: Add Scroll to
+labels: ["integration"]
+body:
+  - type: input
+    id: integration_name
+    attributes:
+      label: "Name of the project"
+      placeholder: "Example: wagmi"
+    validations:
+      required: true
+  - type: dropdown
+    id: integration_type
+    attributes:
+      label: "Project type"
+      options:
+        - Library
+        - Tool
+    validations:
+      required: true
+  - type: input
+    id: integration_site_link
+    attributes:
+      label: "Site of the project"
+      placeholder: "https://wagmi.sh/"
+    validations:
+      required: false
+  - type: input
+    id: integration_github_link
+    attributes:
+      label: "Github repository of the project"
+      placeholder: "https://github.com/wagmi-dev/wagmi"
+    validations:
+      required: true
+  - type: dropdown
+    id: integration_network
+    attributes:
+      label: "Networks"
+      description: "On which networks should this be supported? (You can pick multiple options)"
+      multiple: true
+      options:
+        - Scroll Testnet - Sepolia
+        - Scroll Mainnet
+    validations:
+      required: true
+  - type: textarea
+    id: integration_description
+    attributes:
+      label: "Additional context"
+      description: "Describe any context, screenshot or specification of changes here"
+    validations:
+      required: false
