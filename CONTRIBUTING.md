@@ -8,7 +8,7 @@ Please remember, you're representing Scroll's community when you engage with oth
 
 ### Finding an Issue
 
-In our Issues page, you'll find a number of ways to contribute. Many are "Integrations" that help add Scroll and our testnets to ecosystem tooling, while others might be complex and imaginitive projects!
+On our Issues page, you'll find a number of ways to contribute. Many are "Integrations" that help add Scroll and our testnets to ecosystem tooling, while others might be complex and imaginative projects!
 
 ### Creating an Issue
 
