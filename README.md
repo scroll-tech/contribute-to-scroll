@@ -23,10 +23,6 @@ Scroll is an open source zkEVM Layer 2 that helps scaling Ethereum. Scroll is by
   <img src="https://contrib.rocks/image?repo=scroll-tech/contribute-to-scroll" />
 </a>
 
-## Why Scroll
-
-If you’re experienced in building on Ethereum, your code, dependencies, and tooling work with Scroll out of the box. This is possible because our network is compatible with EVM bytecode and designed to feel just like developing on Ethereum.
-
 Scroll has three technical principles that all contributions should follow:
 
 **Scalability:**
