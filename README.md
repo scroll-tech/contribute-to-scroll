@@ -1,5 +1,7 @@
 ![Contribute to Scroll](./assets/banner.png)
 
+[![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/scroll-tech/contribute-to-scroll/badge)](https://www.gitpoap.io/gp/1057)
+
 This repository guides developers wanting to contribute to Scroll. You can start contributing today, if you need ideas on getting started check out the [issues](https://github.com/scroll-tech/contribute/issues) tab.
 
 ## How to Contribute
