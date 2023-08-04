@@ -6,11 +6,11 @@ This repository guides developers wanting to contribute to Scroll. You can start
 
 ## How to Contribute
 
-Thanks for your interest in contributing to Scroll. Check out the [CONTRIBUTING](https://github.com/scroll-tech/contribute/blob/main/CONTRIBUTING.md) page for a guide on how to contribute.
+To contribute to Scroll, you can visit the [CONTRIBUTING](https://github.com/scroll-tech/contribute/blob/main/CONTRIBUTING.md) page, which provides a comprehensive guide on how to get involved and contribute to the project. Whether you are a developer, designer, or community member, there are various ways you can contribute and help improve Scroll's ecosystem.
 
-## Contributions
+By contributing to Scroll, you can play a part in advancing the adoption of decentralized protocols and contribute to the development of a more scalable and efficient blockchain ecosystem.
 
-### Integrations
+## Integrations
 
 Scroll has been integrated on the following projects:
 
