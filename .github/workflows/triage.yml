@@ -1,6 +1,6 @@
 name: Label issues
 on:
-  issues:
+  issue:
     types:
       - reopened
       - opened
