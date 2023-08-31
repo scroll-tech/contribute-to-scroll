@@ -8,5 +8,10 @@
     "contribution-title": "Add Scroll to ethereum-multicall",
     "project-repo": "https://github.com/joshstevens19/ethereum-multicall/",
     "contributors": ["omahs"]
+  },
+  {
+    "contribution-title": "A MetaMask Snap for Calculating L1 Fees for Scroll Transactions",
+    "project-repo": "https://github.com/0x4r45h/L2Insights",
+    "contributors": ["0x4r45h"]
   }
 ]
