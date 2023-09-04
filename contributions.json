@@ -13,5 +13,10 @@
     "contribution-title": "A MetaMask Snap for Calculating L1 Fees for Scroll Transactions",
     "project-repo": "https://github.com/0x4r45h/L2Insights",
     "contributors": ["0x4r45h"]
+  },
+  {
+    "contribution-title": "Add multicall3 address for Scroll Sepolia to wagmi",
+    "project-repo": "https://github.com/wagmi-dev/viem",
+    "contributors": ["RexCloud"]
   }
 ]
