@@ -1,5 +1,5 @@
 # Checklist ✅
-- [ ] I've read [CONTRIBUTIONS.md](https://github.com/scroll-tech/contribute-to-scroll/blob/main/CONTRIBUTIONS.md) document
+- [ ] I've read [CONTRIBUTING.md](https://github.com/scroll-tech/contribute-to-scroll/blob/main/CONTRIBUTING.md) document
 - [ ] I've filled the `contributions.json` file
 
 # Issues this PR Resolves 🚀
