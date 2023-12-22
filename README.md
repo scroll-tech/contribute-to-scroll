@@ -12,7 +12,7 @@ Thanks for your interest in contributing to Scroll. Check out the [CONTRIBUTING]
 
 ### GitPOAP
 
-Once your pull requests are merged, you will automatically be able to mint  [GitPOAP](https://www.gitpoap.io/gh/scroll-tech/contribute-to-scroll).
+Once your pull request is merged, you will be automatically awared the right to mint a [GitPOAP](https://www.gitpoap.io/gh/scroll-tech/contribute-to-scroll).
 
 1. Go to [GitPOAP](https://www.gitpoap.io/gh/scroll-tech/contribute-to-scroll).
 2. Connect to your wallet or email .
