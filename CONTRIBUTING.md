@@ -39,8 +39,8 @@ Remember to review each external project's `CONTRIBUTING.md` file before making 
 
 ### Collecting your GitPOAP
 
-Once your pull requests are merged, you will automatically be able to mint  [a contribute-to-scroll GitPOAP](https://www.gitpoap.io/gh/scroll-tech/contribute-to-scroll).
+Once your pull requests are merged, you will automatically be able to mint  [GitPOAP](https://www.gitpoap.io/gh/scroll-tech/contribute-to-scroll).
 
-1. Go to [contribute-to-scroll GitPOAP page](https://www.gitpoap.io/gh/scroll-tech/contribute-to-scroll).
+1. Go to [GitPOAP](https://www.gitpoap.io/gh/scroll-tech/contribute-to-scroll).
 2. Connect to your wallet or email .
 3. If your GitHub account is eligible, you can mint GitPOAP.
