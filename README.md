@@ -10,6 +10,14 @@ This repository guides developers wanting to contribute to Scroll. You can start
 
 Thanks for your interest in contributing to Scroll. Check out the [CONTRIBUTING](https://github.com/scroll-tech/contribute/blob/main/CONTRIBUTING.md) page for a guide on how to contribute.
 
+### GitPOAP
+
+Once your pull requests are merged, you will automatically be able to mint  [GitPOAP](https://www.gitpoap.io/gh/scroll-tech/contribute-to-scroll).
+
+1. Go to [GitPOAP](https://www.gitpoap.io/gh/scroll-tech/contribute-to-scroll).
+2. Connect to your wallet or email .
+3. If your GitHub account is eligible, you can mint GitPOAP.
+   
 ## Contributions
 
 ### Integrations
