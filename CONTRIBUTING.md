@@ -1,42 +1,41 @@
-# Contribuya a las pautas de desplazamiento
+# Contribute to Scroll Guidelines
 
-¡Gracias por ayudar a construir el ecosistema Scroll! Las pautas de contribución para este proyecto son un poco extrañas, porque el objetivo es recopilar contribuciones de la comunidad realizadas en otros repositorios, algunos en la organización scroll-tech, pero muchos fuera de ella.
+Thanks for helping to build the Scroll ecosystem! Contribution guidelines for this project are a bit odd, because the goal is to collect community contributions made in other repos — some in the scroll-tech organization, but many outside of it.
 
-Recuerde que usted representa a la comunidad de Scroll cuando interactúa con otros repositorios de código. Siga sus mejores prácticas y sea considerado con el tiempo de cualquier revisor.
+Please remember, you're representing Scroll's community when you engage with other code repos. Please follow their best practices and be considerate of any reviewer's time.
 
-## Empezando
+## Getting Started
 
-### Encontrar un problema
+### Finding an Issue
 
-En nuestra página de Problemas, encontrará varias formas de contribuir. Muchas son "integraciones" que ayudan a agregar Scroll y nuestras redes de prueba a las herramientas del ecosistema, mientras que otras pueden ser proyectos complejos e imaginativos.
+On our Issues page, you'll find a number of ways to contribute. Many are "Integrations" that help add Scroll and our testnets to ecosystem tooling, while others might be complex and imaginative projects!
 
-### Creando un problema
+### Creating an Issue
 
-¿Tiene una idea que le gustaría ver construida? ¿Quieres ver Scroll integrado en tus herramientas de desarrollador favoritas? Lo mejor que pueda, cree un problema que describa el proyecto, vinculándolo al repositorio apropiado y describiendo los cambios que deberían realizarse. Luego, alguien de nuestro equipo puede agregar tareas adicionales, contexto o incluso especificar o implementar el código necesario.
+Have an idea you'd like to see built? Want to see Scroll integrated in your favorite developer tooling? To the best of your ability, make an issue describing the project, linking to the appropriate repo and outlining what changes would need to be made. Someone from our team can then add additional tasks, context or even spec out or implement the code needed.
 
-#### ¿Cómo crear un problema?
-Para crear un problema, tienes varias opciones:
--Utilice plantillas de problemas predefinidas encontradas[aquí](https://github.com/scroll-tech/contribute-to-scroll/issues/new/choose). Con estos podrás:
-   - **"Agregar desplazamiento a alguna herramienta o biblioteca"** - _Integrar Desplácese hasta su proyecto favorito_
-   - **"Proponer nuevo proyecto Skunkworks"** - _¿Tiene alguna idea innovadora que quiera desarrollar sobre Scroll? ¡Propóngalo aquí!_
-- [Abra una edición en blanco](https://github.com/scroll-tech/contribute-to-scroll/issues/new) si ninguna de las opciones anteriores se ajusta a tu propuesta
+#### How to create an issue?
+To create an issue, you have several options:
+- Use predefined issue templates found [here](https://github.com/scroll-tech/contribute-to-scroll/issues/new/choose). With these you can:
+   - **"Add Scroll to some tool or library"** - _Integrate Scroll into your favourite project_
+   - **"Propose new Skunkworks project"** - _Have some innovative idea you want built on top of Scroll? Propose it here!_
+- [Open a blank issue](https://github.com/scroll-tech/contribute-to-scroll/issues/new) if none of the previous options fit your proposal
 
-¡Y eso es! Has comenzado tu contribución al viaje de Scroll. 📜 🚀
+And that's it! You've started your contribution to Scroll journey 📜 🚀
 
-### Hacer un PR
+### Making a PR
 
-Comience primero haciendo un PR para cualquier repositorio externo. Luego puede crear un borrador de relaciones públicas para este repositorio para que nuestro equipo pueda ayudar a comentar y revisar cualquier contribución a proyectos externos.
+Please start by making a PR to any external repo first. You can then create a draft PR to this repo so that our team can help comment on and review any contributions to external projects.
 
-Recuerde revisar el archivo `CONTRIBUTING.md` de cada proyecto externo antes de realizar un PR. Scroll es prioritario para la comunidad, y eso significa respetar las normas y solicitudes de otras comunidades de código.
+Remember to review each external project's `CONTRIBUTING.md` file before making a PR. Scroll is community-first, and that means respecting the norms and requests of other code communities.
 
+#### Making a PR to this Repo
 
-#### Hacer un PR para este repositorio
-
-1. Bifurca el repositorio "contribute-to-scroll".
-2. Agregue su contribución, mostrando el problema que cierra (o al que contribuye), junto con el enlace al PR planteado en otro repositorio.
-3. Describe tu trabajo y completa la plantilla.
-4. Agregue una nueva entrada al archivo `contributions.json` siguiendo el mismo formato que los demás proyectos enumerados.
-5. Los contribuyentes adicionales también deberán comprometerse con el RP (o un RP posterior). Le sugerimos que lo haga agregando su nombre al archivo `contributions.json` para recibir un reconocimiento.
+1. Fork the `contribute-to-scroll` repo.
+2. Add your contribution, showing the Issue it closes (or contributes to), along with the link to the PR raised in another repo.
+3. Describe your work and fill out the template.
+4. Add a new entry to the `contributions.json` file by following the same format as the other projects listed.
+5. Additional contributors will also need to make a commit to the PR (or a later PR). We suggest they do so by adding their name to the `contributions.json` file to receive acknowledgement.
 
 ### Collecting your GitPOAP
 
