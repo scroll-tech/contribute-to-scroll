@@ -19,3 +19,5 @@ Para crear un problema, tienes varias opciones:
 -Utilice plantillas de problemas predefinidas encontradas[aquí](https://github.com/scroll-tech/contribute-to-scroll/issues/new/choose). Con estos podrás:
 - **"Agregar desplazamiento a alguna herramienta o biblioteca"** - _Integrar Desplácese hasta su proyecto favorito_
 - - **"Proponer nuevo proyecto Skunkworks"** - _¿Tiene alguna idea innovadora que quiera desarrollar sobre Scroll? ¡Propóngalo aquí!
+  - - [Abra una edición en blanco](https://github.com/scroll-tech/contribute-to-scroll/issues/new) si ninguna de las opciones anteriores se ajusta a tu propuesta
+    - ¡Y eso es! Has comenzado tu contribución al viaje de Scroll. 📜 🚀
