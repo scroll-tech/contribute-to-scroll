@@ -18,5 +18,10 @@
     "contribution-title": "Add multicall3 address for Scroll Sepolia to wagmi",
     "project-repo": "https://github.com/wagmi-dev/viem",
     "contributors": ["RexCloud"]
+  },
+  {
+    "contribution-title": "Add Scroll Ecosystem's Missing Sub-ecosystems to Electric Capital Repository",
+    "project-repo": "https://github.com/electric-capital/crypto-ecosystems",
+    "contributors": ["RandulaKoralage"]
   }
 ]
