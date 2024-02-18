@@ -18,5 +18,10 @@
     "contribution-title": "Add multicall3 address for Scroll Sepolia to wagmi",
     "project-repo": "https://github.com/wagmi-dev/viem",
     "contributors": ["RexCloud"]
+  },
+   {
+    "contribution-title": "Bing: A Citizen-to-Government Income Tax Mapper",
+    "project-repo": "https://github.com/BingExpress/Bing",
+    "contributors": ["SriCrypt"]
   }
 ]
