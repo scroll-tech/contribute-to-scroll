@@ -7,7 +7,7 @@ body:
     id: integration_name
     attributes:
       label: "Name of the project"
-      placeholder: "Example: wagmi"
+      placeholder: "Defispot"
     validations:
       required: true
   - type: dropdown
@@ -23,14 +23,14 @@ body:
     id: integration_site_link
     attributes:
       label: "Site of the project"
-      placeholder: "https://wagmi.sh/"
+      placeholder: "https://www.defispot.com/landing"
     validations:
       required: false
   - type: input
     id: integration_github_link
     attributes:
       label: "Github repository of the project"
-      placeholder: "https://github.com/wagmi-dev/wagmi"
+      placeholder: "https://github.com/orgs/DefiSpot/repositories"
     validations:
       required: true
   - type: dropdown
