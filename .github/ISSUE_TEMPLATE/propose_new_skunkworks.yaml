@@ -25,20 +25,20 @@ body:
     id: skunkworks_name
     attributes:
       label: "Name of the project"
-      placeholder: "Example: Metamask Snap for Scroll"
+      placeholder: "A Privacy-Preserving Token Exchange"
     validations:
       required: true
   - type: textarea
     id: skunkworks_abstract
     attributes:
       label: "Project abstract"
-      description: "Abstract description of the Skunkworks project you're proposing"
+      description: "Developing a decentralized exchange (DEX) on Scroll where users can trade tokens with advanced privacy. Zero-knowledge proofs can/will be utilized to obscure transaction details, ensuring that trading activity remains confidential while still being verifiable."
     validations:
       required: true
   - type: textarea
     id: skunkworks_specification
     attributes:
       label: "Specification"
-      description: "Specification, pictures and any other resources that are useful for describing this project"
+      description: "https://github.com/Kingjay19/Privacy-Preserving-Token-Exchange/tree/main"
     validations:
       required: true
