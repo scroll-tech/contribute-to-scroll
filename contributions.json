@@ -18,5 +18,10 @@
     "contribution-title": "Add multicall3 address for Scroll Sepolia to wagmi",
     "project-repo": "https://github.com/wagmi-dev/viem",
     "contributors": ["RexCloud"]
+  },
+  {
+    "contribution-title": "Adding a CODE_OF_CONDUCT on Scroll",
+    "project-repo": "https://github.com/NtemKenyor/contribute-to-scroll",
+    "contributors": ["NtemKenyor"]
   }
 ]
