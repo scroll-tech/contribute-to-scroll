@@ -1,0 +1,16 @@
+Description:
+I propose to create a comprehensive example project that demonstrates the integration of Scroll's zkEVM with a React.js frontend application. This example will serve as a practical guide for developers looking to incorporate Scroll into their web applications and interact with Ethereum smart contracts through the zkEVM.
+
+**Contribution Details:**
+- Develop a simple React application (e.g., a "Hello World" DApp) that interfaces with Scroll.
+- Include step-by-step documentation on setting up Scroll with React, from installation to executing transactions.
+- Provide clear code comments and a README that explains the workflow and how Scroll's features are utilized within the app.
+- Ensure the example adheres to best practices for both React development and interaction with Ethereum-based technologies.
+- Test the integration thoroughly to ensure reliability and ease of use for newcomers to the Scroll community.
+
+**Expected Outcomes:**
+- A repository with the example code that can be easily cloned and run by other developers.
+- Documentation that can act as a tutorial for integrating Scroll with React applications.
+- A contribution that can be referenced in the official Scroll documentation to aid developers in understanding the practical application of Scroll within a web development framework.
+
+I believe this contribution will significantly benefit the Scroll community by providing a tangible, easy-to-understand example of how Scroll can fit into the web development ecosystem. It will also help in promoting wider adoption of Scroll by showcasing its compatibility with modern web development practices.
