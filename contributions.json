@@ -18,5 +18,15 @@
     "contribution-title": "Add multicall3 address for Scroll Sepolia to wagmi",
     "project-repo": "https://github.com/wagmi-dev/viem",
     "contributors": ["RexCloud"]
+  },
+  {
+    "contribution-title": "Created a Started Template for Dapp development on Scroll",
+    "project-repo": "https://github.com/developeruche/scroll-starter",
+    "contributors": ["developeruche", "dicethedev"]
+  },
+  {
+    "contribution-title": "Created a Software development kit (SDK) for Scroll, Bridging and Core utilities",
+    "project-repo": "https://github.com/developeruche/scroll-sdks",
+    "contributors": ["developeruche", "Adebara123", "LamsyA", "casweeney", "PhantomOz", "olahfemi", "Timilehin-bello"]
   }
 ]
