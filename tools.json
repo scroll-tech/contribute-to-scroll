@@ -1,0 +1,11 @@
+[
+  {
+    "name": "OnlyDust",
+    "description": "A platform for open source projects to thrive, allowing contributors to join and build projects on various networks, including Scroll.",
+    "url": "https://app.onlydust.com/",
+    "github": "https://github.com/onlydustxyz",
+    "network": "Scroll Mainnet",
+    "category": "Tooling",
+    "tags": ["Open Source", "Contribution", "Developer Experience"]
+  }
+]
